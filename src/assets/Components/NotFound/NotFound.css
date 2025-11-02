@@ -1,0 +1,9 @@
+.notfound-page {
+  min-height: 100vh;
+  background-color: #1abc9c;
+  padding-top: 100px;
+}
+
+.notfound-title {
+  font-size: 150px;
+}

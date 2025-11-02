@@ -1,0 +1,38 @@
+.contact-page {
+  min-height: 100vh;
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: white;
+}
+.contact-input-group {
+  margin-bottom: 2rem;
+}
+
+.contact-input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  font-size: 1rem;
+  outline: none;
+  background: transparent;
+  margin-top: 1rem;
+}
+
+.contact-input:focus {
+  border-bottom-color: #1abc9c;
+}
+
+.contact-submit-btn {
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  padding:0.3rem 0.5rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-submit-btn:hover {
+  background-color: #16a085;
+}
